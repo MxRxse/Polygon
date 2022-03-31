@@ -1,0 +1,68 @@
+ .u-section-1 {
+  background-image: url("images/the_spirit_of_a_warrior_by_sasha_fantom-d5enmqy-897x585.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 768px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 400;
+  text-shadow: 2px 2px 8px rgba(0,0,0,1);
+  margin: 372px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 400;
+  text-shadow: 2px 2px 8px rgba(0,0,0,1);
+  margin: 12px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 633px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 485px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 364px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 229px;
+  }
+} .u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 267px;
+}
+
+.u-section-2 .u-text-1 {
+  font-weight: 400;
+  font-size: 4.0625rem;
+  margin: 50px auto 60px;
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-1 {
+    font-size: 3.75rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-text-1 {
+    font-size: 3rem;
+  }
+}

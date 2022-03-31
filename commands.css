@@ -1,0 +1,57 @@
+ .u-section-1 {
+  background-image: url("images/HD-wallpaper-futuristic-world-space-suits-mechanic-bad-camera-view-fantasy.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 400;
+  text-shadow: 2px 2px 8px rgba(0,0,0,1);
+  margin: 171px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 400;
+  text-shadow: 2px 2px 8px rgba(0,0,0,1);
+  margin: 0 auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 412px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 127px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 316px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 237px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 292px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 93px;
+  }
+}
